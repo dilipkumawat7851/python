@@ -1,0 +1,23 @@
+##modules,comments&pip
+
+pthon->Guido van Rossum ne banaya thaa
+
+modules-->
+          A module  is a file containing code written by somebody else which can be imported 
+          and used in our program.
+pip-->
+        pip is the package manager for python
+        we can use pip to install modulule on your system
+
+        .py -> is a extension
+
+## How to use Python as a calculator
+   open termminal>> then we can use it as a calculator
+   when we type python then it opens REPL or read evaluate print loop
+
+
+##comments-->(ctrl+/)
+             used to ignore something in code 
+
+    #multi_line_comment-->
+                          """ """"        
