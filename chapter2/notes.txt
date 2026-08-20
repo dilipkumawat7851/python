@@ -1,0 +1,13 @@
+##Variables & Datatypes
+
+Variable-->
+           A variable is the name  given to a memory location in a program. For example 
+        -->
+           a=30//variables= Container to store a value 
+           b="dilip"# keywords=Resserved words in python (if i use dubble code then thats 
+               mean it is  like a string )
+           c=1 # identifier 
+
+
+
+        
